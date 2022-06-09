@@ -3,6 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=Rami.cf&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ramy.cf)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ramy_Samy_I?color=1DA1F2&logo=twitter&style=for-the-badge)]( https://twitter.com/Ramy_Samy_I)
+[![Linkedin Follow](https://img.shields.io/linkedin/follow/sami_rami?color=1DA1F2&logo=linkedin&style=for-the-badge)]( https://www.linkedin.com/in/rami-sami-94b57077/)
 
 
 
