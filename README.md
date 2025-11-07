@@ -22,7 +22,6 @@
 
 - 🔨 Building scalable microservices architectures with multi-region deployment strategies
 - 🌐 Leading teams to deliver high-performance web applications with exceptional UX
-- � Contributing to open-source projects and sharing knowledge through technical writing
 - 🎓 Mentoring engineers and fostering a culture of continuous improvement
 
 ## 💻 Technical Stack
