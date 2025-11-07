@@ -1,8 +1,8 @@
 # Rami Sami | Tech Lead & Full-Stack Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ramy.cf-blue?style=for-the-badge&logo=google-chrome)](https://ramy.cf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rami-sami-94b57077/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Ramy_Samy_I)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/realrami/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/iamramisami)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@ramy.cf)
 
 ## 👨‍💻 About Me
@@ -134,8 +134,8 @@ I'm always interested in discussing:
 ### Reach Out
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue)](https://ramy.cf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/rami-sami-94b57077/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/Ramy_Samy_I)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/realrami/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/iamramisami)
 [![Email](https://img.shields.io/badge/Email-contact@ramy.cf-EA4335?logo=gmail)](mailto:contact@ramy.cf)
 
 ---
