@@ -1,81 +1,151 @@
-# Hi there, I'm Rami Sami - [Rami-init][linkedin] 👋 
+# Rami Sami | Tech Lead & Full-Stack Software Engineer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ramy.cf-blue?style=for-the-badge&logo=google-chrome)](https://ramy.cf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rami-sami-94b57077/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Ramy_Samy_I)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@ramy.cf)
 
-[![Website](https://img.shields.io/website?label=Rami.cf&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ramy.cf)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ramy_Samy_I?color=1DA1F2&logo=twitter&style=for-the-badge)]( https://twitter.com/Ramy_Samy_I)
-[![Twitter Follow](https://img.shields.io/twitter/follow/twitter?color=%23004182&label=rami_sami&logo=Linkedin&logoColor=%23004182&style=for-the-badge)]( https://www.linkedin.com/in/rami-sami-94b57077/)
+## 👨‍💻 About Me
 
+**Tech Lead & Senior Full-Stack Engineer** with 8+ years of experience building and scaling production-grade applications across multiple regions. I specialize in architecting robust, maintainable systems that balance performance, scalability, and developer experience.
 
+### Core Expertise
 
-## I'm a Developer, and Search for a job early!!
+- � **Frontend Excellence**: React, Next.js, TypeScript, State Management (Redux, Zustand, Context API)
+- ⚙️ **Backend Mastery**: Node.js, Elixir (Phoenix), Go, Rust - choosing the right tool for each domain
+- 🏗️ **Architecture**: Microservices, Event-Driven Systems, Clean Architecture, Domain-Driven Design
+- � **DevOps & Cloud**: Docker, Kubernetes, AWS, GCP, CI/CD, Infrastructure as Code
+- 📊 **Leadership**: Cross-functional team mentorship, technical decision-making, code review culture
+- � **Quality First**: TDD/BDD, E2E Testing, Performance Optimization, Security Best Practices
 
-- 🌱 I’m currently trying to learn more about react.js next.js🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw, play playstation and fan Liverpool 😎
-- 😻 Check out my latest project i built 👉
-### Connect with me:
+### What I'm Working On
 
-[![website](./img/globe-light.svg)](https://ramy.cf#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://ramy.cf#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Ramy_Samy_I#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Ramy_Samy_I#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rami-sami-94b57077/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rami-sami-94b57077/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/rami_sami_i/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/rami_sami_i/#gh-dark-mode-only)
+- 🔨 Building scalable microservices architectures with multi-region deployment strategies
+- 🌐 Leading teams to deliver high-performance web applications with exceptional UX
+- � Contributing to open-source projects and sharing knowledge through technical writing
+- 🎓 Mentoring engineers and fostering a culture of continuous improvement
 
-### Languages and Tools:
+## 💻 Technical Stack
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Next" width="26px" src="./img/nextjs-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" alt="Redux" width="26px" src="./img/redux-logo-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="./img/material-ui-svgrepo-com.svg" style="padding-right:10px;" />
+### Frontend
 
-<img align="left" alt="Gatsby" width="26px" src="./img/netlify-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="./img/sanity-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="./img/vercel-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="./img/docker-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="./img/heroku-svgrepo-com.svg" style="padding-right:10px;" />
+```typescript
+const frontend = {
+  frameworks: ["React", "Next.js", "Vue.js"],
+  languages: ["TypeScript", "JavaScript (ES6+)"],
+  styling: ["Tailwind CSS", "CSS Modules", "Styled Components"],
+  stateManagement: ["Redux Toolkit", "Zustand", "React Query", "Context API"],
+  testing: ["Jest", "React Testing Library", "Playwright", "Cypress"],
+  build: ["Vite", "Webpack", "Turbopack"],
+};
+```
 
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="./img/apollographql-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+### Backend
 
-<br />
-<br />
+```go
+type BackendStack struct {
+    Languages     []string // ["Node.js", "Elixir", "Go", "Rust"]
+    Frameworks    []string // ["Express", "Phoenix", "Gin", "Actix"]
+    Databases     []string // ["PostgreSQL", "MongoDB", "Redis", "CockroachDB"]
+    MessageQueues []string // ["RabbitMQ", "Kafka", "Redis Streams"]
+    APIs          []string // ["REST", "GraphQL", "gRPC", "WebSocket"]
+    Testing       []string // ["Go Test", "ExUnit", "Mocha", "Cargo Test"]
+}
+```
+
+### DevOps & Infrastructure
+
+```yaml
+infrastructure:
+  cloud_providers: [AWS, GCP]
+  containerization: [Docker, Kubernetes, Docker Compose]
+  ci_cd: [GitHub Actions, GitLab CI, Jenkins, ArgoCD]
+  monitoring: [Prometheus, Grafana, DataDog, Sentry]
+  iac: [Terraform, Pulumi, AWS CDK]
+  databases: [PostgreSQL, MongoDB, Redis, Elasticsearch]
+```
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+## 🏗️ Architectural Principles I Follow
+
+### Clean Architecture
+
+- **Separation of Concerns**: Clear boundaries between layers (Presentation, Business Logic, Data)
+- **Dependency Inversion**: High-level modules don't depend on low-level modules
+- **Testability**: Business logic isolated from frameworks and external dependencies
+
+### Microservices Best Practices
+
+- **Domain-Driven Design**: Services organized around business capabilities
+- **Event-Driven Communication**: Async messaging for loose coupling
+- **API Gateway Pattern**: Centralized routing, auth, and rate limiting
+- **Circuit Breakers**: Resilience and fault tolerance built-in
+
+### Code Quality Standards
+
+- **SOLID Principles**: Applied rigorously across all codebases
+- **Test-Driven Development**: Tests written before implementation
+- **Code Reviews**: Mandatory peer reviews with architectural discussions
+- **Documentation**: Comprehensive ADRs (Architectural Decision Records)
+
+---
+
+## 📚 Knowledge Sharing & Mentorship
+
+### Technical Leadership
+
+- 👥 Led teams of 5-15 engineers across multiple time zones
+- 📖 Created comprehensive onboarding programs for new engineers
+- 🎯 Established code review culture and engineering best practices
+- 📊 Implemented metrics-driven performance improvement initiatives
+
+### Open Source & Community
+
+- 🌟 Active contributor to major open-source projects
+- ✍️ Technical writing on architecture, scalability, and best practices
+- 🎤 Speaker at tech meetups and conferences
+- 🤝 Mentor junior developers through pair programming sessions
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
   
-<!--START_SECTION:activity-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rami-init&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<!--END_SECTION:activity-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-init&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-</details>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rami-init&theme=tokyonight&hide_border=true)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+</div>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rami-init&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+## 📞 Let's Connect
 
-</details>
+I'm always interested in discussing:
 
-[website]: https://ramy.cf
-[twitter]: https://twitter.com/Ramy_Samy_I
-[youtube]: https://www.youtube.com/channel/UCKvmQiU8GRJB47H35jK89aA
-[instagram]: https://www.instagram.com/rami_sami_i/
-[linkedin]: https://www.linkedin.com/in/rami-sami-94b57077/
-[facebook]: https://www.facebook.com/profile.php?id=100005091041495
+- 🏗️ **Architecture & System Design**: Scalability patterns and best practices
+- 🚀 **Performance Optimization**: Making applications blazing fast
+- 👥 **Technical Leadership**: Building and mentoring high-performing teams
+- 🔧 **New Technologies**: Exploring cutting-edge tools and frameworks
+- 💼 **Collaboration Opportunities**: Open-source projects and consulting
 
+### Reach Out
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue)](https://ramy.cf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/rami-sami-94b57077/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/Ramy_Samy_I)
+[![Email](https://img.shields.io/badge/Email-contact@ramy.cf-EA4335?logo=gmail)](mailto:contact@ramy.cf)
+
+---
+
+<div align="center">
+
+### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Building scalable systems | Leading exceptional teams | Creating impact through technology**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rami-init&color=blue&style=for-the-badge)
+
+</div>
