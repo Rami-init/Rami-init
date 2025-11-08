@@ -30,7 +30,7 @@
 
 ```typescript
 const frontend = {
-  frameworks: ["React", "Next.js", "Vue.js"],
+  frameworks: ["React", "Next.js", "React-Native"],
   languages: ["TypeScript", "JavaScript (ES6+)"],
   styling: ["Tailwind CSS", "CSS Modules", "Styled Components"],
   stateManagement: ["Redux Toolkit", "Zustand", "React Query", "Context API"],
@@ -98,13 +98,6 @@ infrastructure:
 - 📖 Created comprehensive onboarding programs for new engineers
 - 🎯 Established code review culture and engineering best practices
 - 📊 Implemented metrics-driven performance improvement initiatives
-
-### Open Source & Community
-
-- 🌟 Active contributor to major open-source projects
-- ✍️ Technical writing on architecture, scalability, and best practices
-- 🎤 Speaker at tech meetups and conferences
-- 🤝 Mentor junior developers through pair programming sessions
 
 ---
 
