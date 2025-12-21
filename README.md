@@ -34,7 +34,7 @@ const frontend = {
   languages: ["TypeScript", "JavaScript (ES6+)"],
   styling: ["Tailwind CSS", "CSS Modules", "Styled Components"],
   stateManagement: ["Redux Toolkit", "Zustand", "React Query", "Context API"],
-  testing: ["Jest", "React Testing Library", "Playwright", "Cypress"],
+  testing: ["Jest", "React Testing Library"],
   build: ["Vite", "Webpack", "Turbopack"],
 };
 ```
@@ -43,12 +43,12 @@ const frontend = {
 
 ```go
 type BackendStack struct {
-    Languages     []string // ["Node.js", "Elixir", "Go", "Rust"]
-    Frameworks    []string // ["Express", "Phoenix", "Gin", "Actix"]
-    Databases     []string // ["PostgreSQL", "MongoDB", "Redis", "CockroachDB"]
-    MessageQueues []string // ["RabbitMQ", "Kafka", "Redis Streams"]
+    Languages     []string // ["Node.js", "Elixir", "Go"]
+    Frameworks    []string // ["Express", "Phoenix", "Gin"]
+    Databases     []string // ["PostgreSQL", "MongoDB", "Redis"]
+    MessageQueues []string // ["RabbitMQ", "Redis Streams"]
     APIs          []string // ["REST", "GraphQL", "gRPC", "WebSocket"]
-    Testing       []string // ["Go Test", "ExUnit", "Mocha", "Cargo Test"]
+    Testing       []string // ["Go Test", "ExUnit", "Mocha"]
 }
 ```
 
@@ -59,7 +59,7 @@ infrastructure:
   cloud_providers: [AWS, GCP]
   containerization: [Docker, Kubernetes, Docker Compose]
   ci_cd: [GitHub Actions, GitLab CI, Jenkins, ArgoCD]
-  monitoring: [Prometheus, Grafana, DataDog, Sentry]
+  monitoring: [Prometheus, Grafana, Sentry]
   iac: [Terraform, Pulumi, AWS CDK]
   databases: [PostgreSQL, MongoDB, Redis, Elasticsearch]
 ```
