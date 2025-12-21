@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-**Tech Lead & Senior Full-Stack Engineer** with 8+ years of experience building and scaling production-grade applications across multiple regions. I specialize in architecting robust, maintainable systems that balance performance, scalability, and developer experience.
+**Tech Lead & Senior Full-Stack Engineer** with 7+ years of experience building and scaling production-grade applications across multiple regions. I specialize in architecting robust, maintainable systems that balance performance, scalability, and developer experience.
 
 ### Core Expertise
 
