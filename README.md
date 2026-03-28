@@ -12,9 +12,9 @@
 ### Core Expertise
 
 - � **Frontend Excellence**: React, Next.js, TypeScript, State Management (Redux, Zustand, Context API)
-- ⚙️ **Backend Mastery**: Node.js, Elixir (Phoenix), Go, Rust - choosing the right tool for each domain
+- ⚙️ **Backend Mastery**: Node.js, Elixir (Phoenix), Rust - choosing the right tool for each domain
 - 🏗️ **Architecture**: Microservices, Event-Driven Systems, Clean Architecture, Domain-Driven Design
-- � **DevOps & Cloud**: Docker, Kubernetes, AWS, GCP, CI/CD, Infrastructure as Code
+- � **DevOps & Cloud**: Docker, Kubernetes, CI/CD, Infrastructure as Code
 - 📊 **Leadership**: Cross-functional team mentorship, technical decision-making, code review culture
 - � **Quality First**: TDD/BDD, E2E Testing, Performance Optimization, Security Best Practices
 
@@ -34,29 +34,28 @@ const frontend = {
   languages: ["TypeScript", "JavaScript (ES6+)"],
   styling: ["Tailwind CSS", "CSS Modules", "Styled Components"],
   stateManagement: ["Redux Toolkit", "Zustand", "React Query", "Context API"],
-  testing: ["Jest", "React Testing Library"],
+  testing: ["Vitest", "React Testing Library"],
   build: ["Vite", "Webpack", "Turbopack"],
 };
 ```
 
 ### Backend
 
-```go
-type BackendStack struct {
-    Languages     []string // ["Node.js", "Elixir", "Go"]
-    Frameworks    []string // ["Express", "Phoenix", "Gin"]
-    Databases     []string // ["PostgreSQL", "MongoDB", "Redis"]
-    MessageQueues []string // ["RabbitMQ", "Redis Streams"]
-    APIs          []string // ["REST", "GraphQL", "gRPC", "WebSocket"]
-    Testing       []string // ["Go Test", "ExUnit", "Mocha"]
-}
+```typescript
+const backend = {
+    languages:     ["Node.js", "Elixir", "Rust"],
+    frameworks:    ["Express", "Phoenix"],
+    databases:     ["PostgreSQL", "MongoDB", "Redis"],
+    messageQueues: ["RabbitMQ", "Redis Streams"],
+    apis:          ["REST", "GraphQL", "WebSocket"],
+    testing:       ["ExUnit", "Mocha"],
+};
 ```
 
 ### DevOps & Infrastructure
 
 ```yaml
 infrastructure:
-  cloud_providers: [AWS, GCP]
   containerization: [Docker, Kubernetes, Docker Compose]
   ci_cd: [GitHub Actions, GitLab CI, Jenkins, ArgoCD]
   monitoring: [Prometheus, Grafana, Sentry]
