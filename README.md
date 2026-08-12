@@ -103,12 +103,13 @@ infrastructure:
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rami-init&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami-init&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rami-init&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rami-init&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rami-init&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rami-init&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rami-init&theme=tokyonight&hide_border=true)
 
 </div>
 
