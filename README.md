@@ -11,18 +11,26 @@
 
 ### Core Expertise
 
-- � **Frontend Excellence**: React, Next.js, TypeScript, State Management (Redux, Zustand, Context API)
-- ⚙️ **Backend Mastery**: Node.js, Elixir (Phoenix), Rust - choosing the right tool for each domain
+- 🎨 **Frontend Excellence**: React, Next.js, TypeScript, State Management (Redux, Zustand, Context API)
+- ⚙️ **Backend Mastery**: Node.js, Elixir (Phoenix) - choosing the right tool for each domain
 - 🏗️ **Architecture**: Microservices, Event-Driven Systems, Clean Architecture, Domain-Driven Design
-- � **DevOps & Cloud**: Docker, Kubernetes, CI/CD, Infrastructure as Code
+- ☁️ **DevOps & Cloud**: Docker, Kubernetes, CI/CD, Infrastructure as Code
 - 📊 **Leadership**: Cross-functional team mentorship, technical decision-making, code review culture
-- � **Quality First**: TDD/BDD, E2E Testing, Performance Optimization, Security Best Practices
+- ✅ **Quality First**: TDD/BDD, E2E Testing, Performance Optimization, Security Best Practices
 
 ### What I'm Working On
 
 - 🔨 Building scalable microservices architectures with multi-region deployment strategies
 - 🌐 Leading teams to deliver high-performance web applications with exceptional UX
 - 🎓 Mentoring engineers and fostering a culture of continuous improvement
+
+### 🌱 Currently Learning
+
+Actively building depth in these — early days, and enjoying the beginner's seat again:
+
+- 🤖 **AI Engineering**: RAG pipelines, LangGraph agent orchestration, embeddings & vector retrieval, prompt and context design
+- 🐍 **Python & FastAPI**: async APIs, Pydantic validation, dependency injection — mostly as the substrate for AI services
+- 🦀 **Rust**: working through ownership, borrowing, and lifetimes; the fundamentals before the frameworks
 
 ## 💻 Technical Stack
 
@@ -43,13 +51,35 @@ const frontend = {
 
 ```typescript
 const backend = {
-    languages:     ["Node.js", "Elixir", "Rust"],
+    languages:     ["Node.js", "Elixir"],
     frameworks:    ["Express", "Phoenix"],
     databases:     ["PostgreSQL", "MongoDB", "Redis"],
     messageQueues: ["RabbitMQ", "Redis Streams"],
     apis:          ["REST", "GraphQL", "WebSocket"],
     testing:       ["ExUnit", "Mocha"],
 };
+```
+
+### AI Engineering 🌱
+
+```python
+learning = {
+    "orchestration": ["LangGraph", "LangChain"],
+    "rag":           ["chunking", "embeddings", "vector search", "reranking"],
+    "serving":       ["Python", "FastAPI", "Pydantic", "async/await"],
+    "practices":     ["prompt design", "context engineering", "evals"],
+}
+```
+
+### Systems 🌱
+
+```rust
+// Learning the fundamentals before reaching for frameworks.
+struct Learning {
+    language: &'static str,      // Rust
+    focus: [&'static str; 4],    // ownership, borrowing, lifetimes, traits
+    stage: Stage,                // Stage::Beginner
+}
 ```
 
 ### DevOps & Infrastructure
