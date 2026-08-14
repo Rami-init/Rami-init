@@ -12,7 +12,7 @@
 ### Core Expertise
 
 - 🎨 **Frontend Excellence**: React, Next.js, TypeScript, State Management (Redux, Zustand, Context API)
-- ⚙️ **Backend Mastery**: Node.js, Elixir (Phoenix) - choosing the right tool for each domain
+- ⚙️ **Backend Mastery**: Node.js (Hono, Express), Elixir (Phoenix, Ash) - choosing the right tool for each domain
 - 🏗️ **Architecture**: Microservices, Event-Driven Systems, Clean Architecture, Domain-Driven Design
 - ☁️ **DevOps & Cloud**: Docker, Kubernetes, CI/CD, Infrastructure as Code
 - 🤝 **Collaboration**: Technical decision-making, design docs & RFCs, thorough code review, mentoring
@@ -52,7 +52,7 @@ const frontend = {
 ```typescript
 const backend = {
     languages:     ["Node.js", "Elixir"],
-    frameworks:    ["Express", "Phoenix"],
+    frameworks:    ["Hono", "Express", "Phoenix", "Ash"],
     databases:     ["PostgreSQL", "MongoDB", "Redis"],
     messageQueues: ["RabbitMQ", "Redis Streams"],
     apis:          ["REST", "GraphQL", "WebSocket"],
