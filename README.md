@@ -1,4 +1,4 @@
-# Rami Sami | Tech Lead & Full-Stack Software Engineer
+# Rami Sami | Senior Full-Stack Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ramisami.dev-blue?style=for-the-badge&logo=google-chrome)](https://ramisami.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/realrami/)
@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-**Tech Lead & Senior Full-Stack Engineer** with 7+ years of experience building and scaling production-grade applications across multiple regions. I specialize in architecting robust, maintainable systems that balance performance, scalability, and developer experience.
+**Senior Full-Stack Engineer** with 7+ years of experience building and scaling production-grade applications across multiple regions. I specialize in designing robust, maintainable systems that balance performance, scalability, and developer experience — and in shipping them end to end, from schema to interface.
 
 ### Core Expertise
 
@@ -15,14 +15,14 @@
 - ⚙️ **Backend Mastery**: Node.js, Elixir (Phoenix) - choosing the right tool for each domain
 - 🏗️ **Architecture**: Microservices, Event-Driven Systems, Clean Architecture, Domain-Driven Design
 - ☁️ **DevOps & Cloud**: Docker, Kubernetes, CI/CD, Infrastructure as Code
-- 📊 **Leadership**: Cross-functional team mentorship, technical decision-making, code review culture
+- 🤝 **Collaboration**: Technical decision-making, design docs & RFCs, thorough code review, mentoring
 - ✅ **Quality First**: TDD/BDD, E2E Testing, Performance Optimization, Security Best Practices
 
 ### What I'm Working On
 
 - 🔨 Building scalable microservices architectures with multi-region deployment strategies
-- 🌐 Leading teams to deliver high-performance web applications with exceptional UX
-- 🎓 Mentoring engineers and fostering a culture of continuous improvement
+- 🌐 Shipping high-performance web applications with exceptional UX
+- 🎓 Mentoring engineers and raising the bar on code quality and testing
 
 ### 🌱 Currently Learning
 
@@ -121,12 +121,12 @@ infrastructure:
 
 ## 📚 Knowledge Sharing & Mentorship
 
-### Technical Leadership
+### How I Work With Teams
 
-- 👥 Led teams of 5-15 engineers across multiple time zones
-- 📖 Created comprehensive onboarding programs for new engineers
-- 🎯 Established code review culture and engineering best practices
-- 📊 Implemented metrics-driven performance improvement initiatives
+- 👥 Collaborate with distributed teams across multiple time zones
+- 📖 Write the onboarding docs and ADRs that keep new engineers unblocked
+- 🎯 Champion code review culture and engineering best practices
+- 📊 Use metrics to find bottlenecks and drive performance improvements
 
 ---
 
@@ -149,7 +149,7 @@ I'm always interested in discussing:
 
 - 🏗️ **Architecture & System Design**: Scalability patterns and best practices
 - 🚀 **Performance Optimization**: Making applications blazing fast
-- 👥 **Technical Leadership**: Building and mentoring high-performing teams
+- 👥 **Engineering Craft**: Code quality, testing strategy, and mentoring
 - 🔧 **New Technologies**: Exploring cutting-edge tools and frameworks
 - 💼 **Collaboration Opportunities**: Open-source projects and consulting
 
@@ -166,7 +166,7 @@ I'm always interested in discussing:
 
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-**Building scalable systems | Leading exceptional teams | Creating impact through technology**
+**Building scalable systems | Shipping quality software | Creating impact through technology**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rami-init&color=blue&style=for-the-badge)
 
